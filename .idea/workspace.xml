@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aba8fa6-660c-4357-a253-af003bd29168" name="Changes" comment="nâng cấp ffi, sdk">
-      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+    <list default="true" id="9aba8fa6-660c-4357-a253-af003bd29168" name="Changes" comment="thêm zinnia_flutter">
+      <change beforePath="$PROJECT_DIR$/ios/zinnia_flutter.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/ios/zinnia_flutter.podspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zinnia_flutter.podspec" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
@@ -103,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780525829568</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="thêm zinnia_flutter">
+      <option name="closed" value="true" />
+      <created>1780529056065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780529056065</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -114,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="nâng cấp ffi, sdk" />
-    <option name="LAST_COMMIT_MESSAGE" value="nâng cấp ffi, sdk" />
+    <MESSAGE value="thêm zinnia_flutter" />
+    <option name="LAST_COMMIT_MESSAGE" value="thêm zinnia_flutter" />
   </component>
 </project>

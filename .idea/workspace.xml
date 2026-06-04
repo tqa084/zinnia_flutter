@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9aba8fa6-660c-4357-a253-af003bd29168" name="Changes" comment="thêm zinnia_flutter" />
+    <list default="true" id="9aba8fa6-660c-4357-a253-af003bd29168" name="Changes" comment="thêm zinnia_flutter">
+      <change beforePath="$PROJECT_DIR$/ios/zinnia_flutter.podspec" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780530412861</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="thêm zinnia_flutter">
+      <option name="closed" value="true" />
+      <created>1780531188032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780531188032</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">

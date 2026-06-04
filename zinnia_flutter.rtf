@@ -1,0 +1,20 @@
+Pod::Spec.new do |s|
+  s.name             = 'zinnia_flutter'
+  s.version          = '0.0.1'
+  s.summary          = 'Flutter plugin for Zinnia handwriting recognition'
+  s.description      = <<-DESC
+                       A Flutter plugin that provides bindings to the Zinnia handwriting recognition engine.
+                       DESC
+  s.homepage         = 'https://github.com/tqa084/zinnia_flutter'
+  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.author           = { 'Truong Quang An' => 'your_email@example.com' }
+  s.source           = { :git => 'https://github.com/tqa084/zinnia_flutter.git', :tag => s.version.to_s }
+
+  s.platform         = :ios, '11.0'
+  s.source_files     = 'Classes/**/*.{h,m,swift}'
+  s.vendored_libraries = 'ios/ZinniaFramework/libzinnia.a'
+  s.public_header_files = 'ios/ZinniaFramework/zinnia.h'
+  
+  s.static_framework = true
+  s.requires_arc     = true
+end
